@@ -1,6 +1,6 @@
 {
   "name": "nor-api-helpers",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Helpers for API modules",
   "main": "src/helpers.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/sendanor/nor-api-helpers",
   "dependencies": {
-    "nor-debug":       ">= 0.1.44 < 0.2.0"
+    "nor-debug":       ">= 0.1.45 < 0.2.0"
   }
 }
